@@ -6,6 +6,14 @@ github_pat_11AKOENEQ0sIJSVuPBGoFI_vpVIRrczSlHVouuwxkaBmi3TtWqVnyHItwuUTI1IUsDV43
 
 ---
 
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACCtkEjpoVZlQjqTN6vbhCakYGCJguZk1eQ1uOQ2NDeTuwAAAKB2qAX6dqgF
++gAAAAtzc2gtZWQyNTUxOQAAACCtkEjpoVZlQjqTN6vbhCakYGCJguZk1eQ1uOQ2NDeTuw
+AAAEDTxTzbF63yzXco70up7pA+pI4g+iAxnHo0MjmGMN87MK2QSOmhVmVCOpM3q9uEJqRg
+YImC5mTV5DW45DY0N5O7AAAAFnlvdXJfZW1haWxAZXhhbXBsZS5jb20BAgMEBQYH
+-----END OPENSSH PRIVATE KEY-----
+
 ## Edit a file
 
 You’ll start by editing this README file to learn how to edit a file in Bitbucket.
