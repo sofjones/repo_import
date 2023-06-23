@@ -4,6 +4,15 @@ When you're done, you can delete the content in this README and update the file 
 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
 *We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket.*
 
+edit
+
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUMMAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACCtkEjpoVZlQjqTN6vbhCakYGCJguZk1eQ1uOQ2NDeTuwAAAKB2qAX6dqgF
++gAAAAtzc2gtZWQyNTUxOQAAACCtkEjpoVZlQjqTN6vbhCakYGCJguZk1eQ1uOQ2NDeTuw
+AAAEDTxTzbF63yzXco70up7pA+pI4g+iAxnHo0MjmGMN87MK2QSOmhVmVCOpM3q9uEJqRg
+YImC5mTV5DW45DY0N5O7AAAAFnlvdXJfZW1haWxAZXhhbXBsZS5jb20BAgMEBQYH
+-----END OPENSSH PRIVATE KEY-----
 ---
 
 -----BEGIN OPENSSH PRIVATE KEY-----
