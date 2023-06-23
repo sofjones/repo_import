@@ -1,3 +1,6 @@
+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
+
+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
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
